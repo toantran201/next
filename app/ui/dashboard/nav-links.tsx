@@ -22,6 +22,7 @@ const NavLinks = () => {
   return (
     <>
       {links.map((link) => {
+        //
         const LinkIcon = link.icon;
         return (
           <Link
