@@ -1,0 +1,7 @@
+.shape {
+    @apply h-0 w-0
+    border-b-black border-solid border-b-[30px]
+    border-l-transparent border-l-[30px]
+    border-r-transparent border-r-[30px]
+    ;
+}
